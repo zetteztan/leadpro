@@ -1,0 +1,28 @@
+﻿
+Is Dark Mode actually saving your smartphone battery?
+
+    • 
+ 
+by R. Dallon Adams in Mobility on July 30, 2021, 7:28 AM PST 
+A new study compares situational use in light and dark mode and introduces a tool developers could use to assess app battery use. 
+
+Image: GettyImages/Oscar Wong 
+Many people prefer to activate their phone's dark mode in a host of settings; after all, doing so can reportedly decrease smartphone battery drain. On Wednesday, Purdue University published a report highlighting recent research about the setting and the battery savings afforded by dimming the mobile lights. The researchers also give a glimpse of a new tool developers could use to assess app power savings during development.
+"When the industry rushed to adopt dark mode, it didn't have the tools yet to accurately measure power draw by the pixels," said Charlie Hu, Purdue's Michael and Katherine Birck professor of electrical and computer engineering, in a press release. "But now we're able to give developers the tools they need to give users more energy-efficient apps." 
+SEE: Electronic communication policy (TechRepublic Premium) 
+Overall, the researchers used a series of popular apps including Google Play, Google Maps, Google News, Google Phone, Google Calendar, YouTube and Calculator to determine the impact dark mode had on phone models including Pixel 2, Pixel 4, Pixel 5 and Moto Z3, the release said. Even though the researchers only looked at Android apps and smartphones, the post said the "findings might have similar implications for Apple phones" iPhone X and onward. 
+More about Mobility
+    • Top 100+ tips for telecommuters and managers (free PDF) 
+    • How to blur your background in a Zoom call 
+    • The 5 best free Wi-Fi apps to test network performance 
+    • The best mobile browser you should be using right now (it's not what you think) 
+Indoor vs outdoor environments 
+In conclusion, the team determined that "dark mode only makes a noticeable difference to battery life in certain scenarios." In indoor environments, the post said the default auto-brightness features keep omitted brights "around 30%-40% most of the time;" however, at these approximate levels, the researchers determined enabling dark mode would save an average of 3% to 9% power "for several different OLED smartphones." 
+"This percentage is so small that most users wouldn't notice the slightly longer battery life. But the higher the brightness when switching from light mode to dark mode, the higher the energy savings," the post said. 
+Using the example of a person "sitting outside watching a baseball game on a bright and sunny day" with a light mode-enabled OLED phone, the post said "the screen has probably become really bright" if the phone is using automatically adjusted brightness, "which drains battery life." 
+When set to 100% brightness, the researchers determined that switching to dark mode would save "an average of 39%-47% battery power," meaning that by "turning on dark mode while your phone's screen is that bright" a person could allow their phone to "last a lot longer" compared to remaining in light mode. 
+SEE: Samsung Galaxy S21 Series: A cheat sheet (free PDF) (TechRepublic) 
+A portion of the study focuses on dark mode compared to light mode with a focus on readability and eye strain. According to research data, the post said "lower brightness levels in light mode result in the same power draw as higher brightness levels in dark mode." During app tests of the Google News app on a Pixel 5, the post said light mode set to 20% brightness drew the "same amount of power" compared to the phone in dark mode set to 50% brightness. 
+"So if looking at your phone in dark mode is easier on your eyes, but you need the higher brightness to see better, you don't have to worry about this brightness level taking more of a toll on your phone's battery life," the post said. 
+The post also describes a tool developers could use to more accurately gauge app energy usage in dark mode. The team built a tool called the Per-Frame OLED Power Profiler (PFOP) "based on the more accurate OLED power model." Developers could leverage the tool to determine the dark mode power savings of apps during development, the research team said. 
+"Tests done in the past to compare the effects of light mode with dark mode on battery life have treated the phone as a black box, lumping in OLED display with the phone's other gazillion components. Our tool can accurately isolate the portion of battery drain by the OLED display," said Pranab Dash, a Purdue Ph.D. student who worked on the study.
